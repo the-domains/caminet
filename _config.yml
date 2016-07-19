@@ -1,0 +1,14 @@
+layout_spectrum: 0.9965634108521044
+typography_spectrum: 0.9046787961851805
+color:
+  brandStrength: 0.624713652767241
+  lightness: 0.7716954224742949
+  saturation: 0.611649074126035
+  rhythmicContrast: 0.23582664015702903
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Caminet
