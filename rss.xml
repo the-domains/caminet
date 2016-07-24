@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Caminet]]></title>
+        <description><![CDATA[Caminet]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jul 2016 09:19:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Viatjant, viatjant tot començant]]></title>
+            <description><![CDATA[<article><h1>Viatjant, viatjant tot començant</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/85f8962fd7aeb86f0368488ba8cdcc99/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcaeb5245-8131-44f8-ae72-e9bc0c26ac2c.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/caeb5245-8131-44f8-ae72-e9bc0c26ac2c.jpg</link>
+            <guid isPermaLink="false">fba32691-a637-4de8-b465-2edec0352b4c</guid>
+            <pubDate>Sun, 24 Jul 2016 09:19:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
